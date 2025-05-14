@@ -1,0 +1,47 @@
+.pesq{
+    height: 8rem !important;
+    background-color: #bdbeb4;
+}
+
+input{
+    background-color: #fff;
+    border-radius: 5;
+    border:#fff;
+    padding: 5px;
+    color: #000;
+}
+
+p{
+    font-weight: 600;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 2vh;
+}
+
+.search{
+    color: #000;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.search:hover{
+    transform: scale(1.1);
+}
+
+.igr{
+    border-radius: 5px;
+}
+
+.igrejas{
+    text-align: center;
+}
+
+.mod{
+   width: 30vh;
+    background-color: #bdbeb4;
+    
+}
+
+.mod:hover{
+    background-color: #bdbeb4 !important;
+}

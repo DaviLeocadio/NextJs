@@ -1,0 +1,8 @@
+.card-body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin-top: 5vh;
+}

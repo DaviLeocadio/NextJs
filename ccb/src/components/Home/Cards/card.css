@@ -1,0 +1,17 @@
+.card{
+    width: 95%;
+}
+
+.title_com{
+    font-size: 5vh;
+    color: rgb(35, 34, 34);
+    text-decoration: none !important;
+}
+
+.link-none{
+    text-decoration: none;
+}
+
+.title_com:hover{
+    color:blue;
+}
